@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-pwa-2657c": {
+      "hosting": {
+        "myapp": [
+          "angular-pwa-2657c"
+        ]
+      }
+    }
+  }
+}
